@@ -1,2 +1,3 @@
-# stock-market
-Forma AI's stock market statement generator coding test
+# Stock Statement Generator
+
+A transaction statement generator for a existing trader on Forma AI's stock trading system.
